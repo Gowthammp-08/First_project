@@ -1,0 +1,153 @@
+body{
+    background-image: url('milogo1.png');
+    background-size: cover; /* Scale the image to cover the entire container */
+    background-position: center; /* Center the background image */
+    background-repeat: no-repeat; /* Do not repeat the background image */
+    padding: px; /* Add some padding to the container */
+}
+
+*{
+    margin: 0px;
+    padding: 0%; 
+ }
+
+nav{
+    background-color: black;
+    color: white;
+    padding: 25px;
+    
+}
+h1,ul,li{
+    display: inline;
+}
+.gold{
+    color:gold;
+    padding: 5px;
+}
+h1{
+    color:rgb(255, 255, 255);
+    padding-left: 15px;
+    font-family: "NoirProMedium", sans-serif;
+    text-transform: uppercase;
+}
+li{
+    padding-left: 10px;
+    cursor: pointer;
+}
+ul{
+    padding-left: 58%;
+}
+li:hover{
+    color: blue;
+}
+.search{
+    padding: 50px;
+    text-align: center;
+}
+
+input{
+    width: 60%;
+    padding: 15px;
+}
+.products{
+    height: 500px;
+}
+.img1{
+    margin-top: 10px;
+}
+
+.box{
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    width: 240px;
+    height: auto;
+    margin-left: 0px;
+    display: inline-block;
+    cursor: pointer;
+}
+#products{
+    text-align: center;
+}
+.box:hover{
+    background-color: rgb(50, 50, 194);
+    color: gold;
+}
+.box2:hover{
+    background-color: rgb(50, 50, 194);
+    color: gold;
+}
+.box3:hover{
+    background-color: rgb(50, 50, 194);
+    color: gold;
+}
+.img2{
+    margin: 20px;
+    margin-top: 22px;
+    margin-bottom: 35px;
+}
+.box2{
+    
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    width: 240px;
+    height: auto;
+    margin-left: 100px;
+    display: inline-block;
+    cursor: pointer;
+}
+.img3{
+    margin: 20px;
+    margin-top: 62px;
+    margin-bottom: 59px;
+    
+    
+}
+.box3{
+    
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    width: 240px;
+    height: auto;
+    margin-left: 100px;
+    display: inline-block;
+    cursor: pointer;
+}
+.poster{
+    text-align: center;
+    padding-top: 40px;
+}
+.black{
+    color: black;
+}
+.About{
+    color: black;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 15px;
+}
+.About1{
+    color: black;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#aboutus{
+    text-align: center;
+    padding:35px;
+    
+}
+.white{
+    color: white;
+}
+.gold2{
+    color:gold;
+}
+#contact{
+    background-color: black;
+    color: rgb(70, 70, 230);
+    text-align: center;
+}
+
+
